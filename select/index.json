@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "星が瞬くこんな夜に ～シャイニースター戦～",
+  "base_artist": "supercell",
+  "createdAt": "2026-01-04T13:37:52.472874Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "星が瞬くこんな夜に ～ゲームver.～",
+      "artist": "supercell",
+      "has_synced": false,
+      "path": "select/pl_01_星が瞬くこんな夜に_~ゲームver.~_supercell.txt"
+    }
+  ]
+}
